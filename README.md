@@ -23,7 +23,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![lhb8106's GitHub stats](https://github-readme-stats.vercel.app/api?username=heaven00&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)]
+[![lhb8106's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhb8106&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)]
 
 
 </div>
