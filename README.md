@@ -23,8 +23,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![lhb8106's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhb8106&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhb8106)](https://solved.ac/lhb8106/)
+[![lhb8106's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhb8106&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhb8106)](https://solved.ac/lhb8106/)
 
 
 
